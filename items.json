@@ -1,0 +1,223 @@
+[
+    {
+        "SWORDS" : [
+            {
+                "name" : "Novice Sword",
+                "cost" : 8, 
+                "strength" : 3,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 25,
+                "row, col" : [0, 0]
+            },
+            {
+                "name" : "Beginner Sword",
+                "cost" : 16, 
+                "strength" : 5,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 30,
+                "row, col" : [0, 1]
+            },
+            {
+                "name" : "Intermediate Sword",
+                "cost" : 20, 
+                "strength" : 7,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 35,
+                "row, col" : [0, 2]
+            },
+            {
+                "name" : "Advanced Sword",
+                "cost" : 30, 
+                "strength" : 10,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 50,
+                "row, col" : [0, 3]
+            }
+        ]
+    },
+    {
+        "ARMOUR" : [
+            {
+                "name" : "Novice Armour",
+                "cost" : 10, 
+                "strength" : 0,
+                "armour" : 2,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 25,
+                "row, col" : [1, 0]
+            },
+            {
+                "name" : "Beginner Armour",
+                "cost" : 20, 
+                "strength" : 0,
+                "armour" : 4,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 30,
+                "row, col" : [1, 1]
+            },
+            {
+                "name" : "Intermediate Armour",
+                "cost" : 30, 
+                "strength" : 0,
+                "armour" : 6,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 35,
+                "row, col" : [1, 2]
+            },
+            {
+                "name" : "Advanced Armour",
+                "cost" : 40, 
+                "strength" : 0,
+                "armour" : 8,
+                "speed" : 0,
+                "regeneration" : 0,
+                "durability" : 45,
+                "row, col" : [1, 3]
+            }
+        ]
+    },
+    {
+        "SHOES" : [
+            {
+                "name" : "Novice Shoes",
+                "cost" : 15, 
+                "strength" : 0,
+                "armour" : 1,
+                "speed" : 0.3,
+                "regeneration" : 0,
+                "durability" : 25,
+                "row, col" : [2, 0]
+            },
+            {
+                "name" : "Beginner Shoes",
+                "cost" : 25, 
+                "strength" : 0,
+                "armour" : 2,
+                "speed" : 0.5,
+                "regeneration" : 0,
+                "durability" : 30,
+                "row, col" : [2, 1]
+            },
+            {
+                "name" : "Intermediate Shoes",
+                "cost" : 25, 
+                "strength" : 0,
+                "armour" : 3,
+                "speed" : 0.8,
+                "regeneration" : 0,
+                "durability" : 35,
+                "row, col" : [2, 2]
+            },
+            {
+                "name" : "Advanced Shoes",
+                "cost" : 55, 
+                "strength" : 0,
+                "armour" : 4,
+                "speed" : 1,
+                "regeneration" : 0,
+                "durability" : 45,
+                "row, col" : [2, 3]
+            }
+        ]
+    },
+    {
+        "RINGS" : [
+            {
+                "name" : "Novice Ring",
+                "cost" : 10, 
+                "strength" : 0,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0.005,
+                "durability" : 25,
+                "row, col" : [3, 0]
+            },
+            {
+                "name" : "Beginner Ring",
+                "cost" : 20, 
+                "strength" : 0,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0.01,
+                "durability" : 30,
+                "row, col" : [3, 1]
+            },
+            {
+                "name" : "Intermediate Ring",
+                "cost" : 30, 
+                "strength" : 0,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0.015,
+                "durability" : 35,
+                "row, col" : [3, 2]
+            },
+            {
+                "name" : "Advanced Ring",
+                "cost" : 40, 
+                "strength" : 0,
+                "armour" : 0,
+                "speed" : 0,
+                "regeneration" : 0.02,
+                "durability" : 45,
+                "row, col" : [3, 3]
+            }
+        ]
+    },
+    {
+        "POTIONS" : [
+            {
+                "name" : "Basic Health Potion",
+                "cost" : 5, 
+                "restoration" : 25,
+                "row, col" : [4, 0]
+
+            },
+            {
+                "name" : "Super Health Potion",
+                "cost" : 15, 
+                "restoration" : 75,
+                "row, col" : [4, 1]
+            },
+            {
+                "name" : "Basic Strength Potion",
+                "cost" : 8, 
+                "boost" : 3,
+                "duration" : 1,
+                "row, col" : [4, 2]
+            },
+            {
+                "name" : "Super Strength Potion",
+                "cost" : 15, 
+                "boost" : 5,
+                "duration" : 1.5, 
+                "row, col" : [4, 3]
+            },
+            {
+                "name" : "Basic Speed Potion",
+                "cost" : 6, 
+                "boost" : 0.3,
+                "duration" : 1,
+                "row, col" : [4, 4]
+            },
+            {
+                "name" : "Super Speed Potion",
+                "cost" : 12, 
+                "boost" : 0.5,
+                "duration" : 1.5,
+                "row, col" : [4, 5]
+            }
+        ]
+    }
+]
